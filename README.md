@@ -1,0 +1,2 @@
+# autopsy--autonomous-predictive-adaptive-trading-engine
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Predictive Adaptive Trading Engine' FAILED.MASTER REFLECTION: Worker completed 'Autonomous Predictive Adaptive Trading Engine'.ORIGINAL ERROR LOGS:loat = 0.95    epsilon_decay: float = 0.995    min_epsilon: float = 0.01class ConfigManager:    """Central configuration manager with validation"""  
